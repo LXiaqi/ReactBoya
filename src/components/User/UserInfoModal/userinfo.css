@@ -1,0 +1,16 @@
+.ant-modal-header {
+  border-radius: 16px !important;
+}
+.form_item {
+  display: inline-flex;
+  width: 440px;
+}
+.form_item .ant-input {
+  width: 240px;
+}
+.form_item .ant-radio-group {
+  width: 240px;
+}
+.TextArea {
+  margin-left: -104px;
+}

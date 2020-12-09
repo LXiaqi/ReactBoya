@@ -1,0 +1,45 @@
+.table_box .avatar_mini {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+}
+.table_box .btn_right {
+  margin: 4px 10px 4px 10px;
+  font-size: 12px;
+}
+.table_box .btn_red {
+  margin: 4px 10px 4px 10px;
+  font-size: 12px;
+  background-color: #ff4d4f;
+  border: 0;
+}
+.table_box .btn_green {
+  margin: 4px 10px 4px 10px;
+  font-size: 12px;
+  background-color: #67C23A;
+  border: 0;
+}
+.table_box .coin {
+  display: inline-block;
+  width: calc(50vh);
+  margin: 28px;
+}
+.table_box .search_box {
+  margin: 20px;
+}
+.table_box .search_box .search_id {
+  display: inline-block;
+  margin: 0 30px 0 20px;
+}
+.table_box .search_box .search_id .ipt {
+  width: 180px;
+}
+.table_box .search_box .search_id .btns {
+  margin: 0 10px;
+}
+.ant-modal-content {
+  border-radius: 16px;
+}
+.ant-modal-confirm-btns {
+  margin-top: 14px !important;
+}

@@ -1,0 +1,9 @@
+.button_box {
+  width: 100%;
+}
+.button_box .btoon_basics {
+  margin: 20px;
+}
+.button_box .btoon_basics Button {
+  margin-right: 15px;
+}

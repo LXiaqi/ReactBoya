@@ -1,0 +1,59 @@
+.login_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh);
+  background: url('../../resource/assets/login/bg.png') no-repeat;
+}
+.login_box .logincontent {
+  width: 945px;
+  height: 491px;
+  text-align: center;
+  background: url('../../resource/assets/login/img.png') no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+.login_box .logincontent .iog_box {
+  position: absolute;
+  right: 121px;
+  top: 40px;
+}
+.login_box .logincontent .iog_box img {
+  width: 192px;
+  height: 111px;
+}
+.login_box .logincontent .iog_box .title {
+  margin: 32px 0px 8px 0px;
+  font-size: 16px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: #121212;
+}
+.login_box .logincontent .iog_box .ipt_box .username {
+  width: 270px;
+  height: 40px;
+  margin-top: 16px;
+  border-radius: 14px;
+}
+.login_box .logincontent .iog_box .ipt_box .username:focus-within {
+  border: 1px solid #FF5369;
+}
+.login_box .logincontent .iog_box .ipt_box .username:hover {
+  border: 1px solid #FF5369;
+}
+.login_box .logincontent .iog_box .forget {
+  text-align: right;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: #FF5369;
+  margin-top: 8px;
+}
+.login_box .logincontent .iog_box .login_btn {
+  width: 270px;
+  height: 40px;
+  border-radius: 14px;
+  margin-top: 56px;
+  background: #FF5369;
+  color: #fff;
+  border: 1px solid #FF5369;
+}

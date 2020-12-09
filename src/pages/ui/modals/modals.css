@@ -1,0 +1,9 @@
+.modals_box {
+  width: 100%;
+}
+.modals_box .card-wrap {
+  margin: 20px;
+}
+.modals_box .card-wrap Button {
+  margin-right: 15px;
+}
